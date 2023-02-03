@@ -1,18 +1,30 @@
 {
-  "@context": "https://www.w3.org/ns/did/v1",
-  "id": "did:web:plietar.github.io",
-  "assertionMethod": [
-    {
-      "id": "did:web:plietar.github.io#8cd6bd5e3ce1acfe29680e93a4f9c5694aeba6f6931972bee15a324392c9fbf4",
-      "type": "JsonWebKey2020",
-      "controller": "did:web:plietar.github.io",
-      "publicKeyJwk": {
-        "kid": "8cd6bd5e3ce1acfe29680e93a4f9c5694aeba6f6931972bee15a324392c9fbf4",
-        "kty": "RSA",
-        "alg": "PS256",
-        "n": "w4hLckr7KVxnOHLCPoj_AXRvRevngFXJtO_JBQBNm_p1pa9rVW9YCj1et5AX5Bk3avEZ95mlUu0Ymz6jD7dZF03rOcgTiN6k5uC5m1DOxk61-pShlmpK_ckd327AHZ_OtvqcP6U7G0j30YRhZVvIDKr4YlY8maPkMh9WPWrc_iZDODTyaTb3rAYGw-X6mu8GhZATxhI3wQ1DpOsXhWOtskCdhK3fDU8G0cX6STK-WRLqXs9E6kic4c8Nztm1fOCDsS__O22LlaC7O0zzr82i7h_wDPDqa17-aPYqW_mwUIeST22xizGwgqUmuXwNGJSMu8SaX47hflFDHhPKcMW1cdb0Ql8k8x8q24vIj51xsmz8XJB16zVfufhWDlKOeoiX4vOpP397gw5WTlPgMODWxP41D6Jven5Uk54hztwv2kirws5yLvHYF4G0X2pGViWZKXcBiSLCcgVcN0lpDYuxWYypSQNCsOc1ZrPuD56lIGvSO8A-MTsg6KJO0dd38nQL",
-        "e": "AQAB"
-      }
-    }
-  ]
+	"@context": "https://www.w3.org/ns/did/v1",
+	"id": "did:web:plietar.github.io",
+	"assertionMethod": [
+		{
+			"id": "did:web:plietar.github.io#8cd6bd5e3ce1acfe29680e93a4f9c5694aeba6f6931972bee15a324392c9fbf4",
+			"type": "JsonWebKey2020",
+			"controller": "did:web:plietar.github.io",
+			"publicKeyJwk": {
+				"kid": "8cd6bd5e3ce1acfe29680e93a4f9c5694aeba6f6931972bee15a324392c9fbf4",
+				"kty": "RSA",
+				"alg": "PS256",
+				"n": "w4hLckr7KVxnOHLCPoj_AXRvRevngFXJtO_JBQBNm_p1pa9rVW9YCj1et5AX5Bk3avEZ95mlUu0Ymz6jD7dZF03rOcgTiN6k5uC5m1DOxk61-pShlmpK_ckd327AHZ_OtvqcP6U7G0j30YRhZVvIDKr4YlY8maPkMh9WPWrc_iZDODTyaTb3rAYGw-X6mu8GhZATxhI3wQ1DpOsXhWOtskCdhK3fDU8G0cX6STK-WRLqXs9E6kic4c8Nztm1fOCDsS__O22LlaC7O0zzr82i7h_wDPDqa17-aPYqW_mwUIeST22xizGwgqUmuXwNGJSMu8SaX47hflFDHhPKcMW1cdb0Ql8k8x8q24vIj51xsmz8XJB16zVfufhWDlKOeoiX4vOpP397gw5WTlPgMODWxP41D6Jven5Uk54hztwv2kirws5yLvHYF4G0X2pGViWZKXcBiSLCcgVcN0lpDYuxWYypSQNCsOc1ZrPuD56lIGvSO8A-MTsg6KJO0dd38nQL",
+				"e": "AQAB"
+			}
+		},
+		{
+			"id": "did:web:plietar.github.io#637dd0812e4d3f6656589866bca61097fbe5f8d48234b05f8539a297bbd1ea4e",
+			"type": "JsonWebKey2020",
+			"controller": "did:web:plietar.github.io",
+			"publicKeyJwk": {
+				"kty": "RSA",
+				"n": "pC9IvQGoxnAqXjkvz4ixjXnf3p-SA5bsBVionBbw8_SHA1b7875jBMBFIRMFnuRYXgEJbWTj4rVSasExKmNfQPpf6eXtv4A3rvMtMNTgdfjwjHWAgbXWRhYIuMOs8RWnlYUktnxgnHCwNusxwERn6tFsUetvVp5kgpO_b5tIN_YxqO64-EnYGbWQoOPSEVKlNNRacdN22mJmFgSna3FQHz1PqFBJDmNPwCxaCLWrNJccb6PTlt8nEyun43S5Jq-jXux2NlULZU3dQW-6F38dR9geWZQfzC8g7ZfGpy6bq6t83Opkb8ooR05afa2CZ52d11D3A1OhCGosVsv2UhGNAX3WsLTm6RStKdHXJ6OtPxePoLAov0PMBJN-uer7Ortx4SqlewwTNVSV3FvYTyu9kvbH_4y9t1D5ffztQ53Ihg2xTGulJZNZUaqFc7e-uQrJSaHhG-O3ocfzhH94M1BJvUY3lIJXqJZWor5WQptK56bQbg6XBB5_bjG_Bw05VojL",
+				"e": "AQAB",
+				"kid": "637dd0812e4d3f6656589866bca61097fbe5f8d48234b05f8539a297bbd1ea4e",
+				"alg": "PS256"
+			}
+		}
+	]
 }
